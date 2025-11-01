@@ -22,6 +22,13 @@ mysql>enter pasword:
 
 source bike_taxi_system.sql;
 
+## 📈 Future Enhancements
+
+Add ride status (Booked, Completed, Cancelled)
+
+Add stored procedures for booking rides
+
+
 
 
 
