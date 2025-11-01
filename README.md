@@ -1,7 +1,7 @@
 # sql-practice-projects
 This repo is for practice.There will be future enhancements also.
 
-# Bike Taxi System (SQL Project)
+1.Bike Taxi System 
 --------------------------------------------
 
 This project models a simple ride-booking system with three tables:
@@ -13,8 +13,8 @@ This project models a simple ride-booking system with three tables:
 if it is saved in my sql folder
 E:\Codegnan\my sql\
 
-Run the SQL file inside MySQL
--------------------------------------
+## Run the SQL file inside MySQL
+
 mysql -u root -p
 
 enter password
