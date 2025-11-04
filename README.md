@@ -28,7 +28,6 @@ Add ride status (Booked, Completed, Cancelled)
 
 Add stored procedures for booking rides
 
-
-
-
-
+2.Hotel Reservation System 
+---------------------------------------
+This project is a complete SQL database schema for a Hotel and Reservation Management System. It is designed to manage core entities like Guests, Rooms, Reservations, and Payments, providing a foundational data structure for a full-scale hotel management application.
